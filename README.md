@@ -34,10 +34,10 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter Notebook
 *Recall and precision are for the poisonous class.*
 
 ### Confusion Matrix (Random Forest)
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Top 10 Important Features (Random Forest)
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ## Key Learnings
 - **Best model:** Decision Tree and Random Forest both scored 100%. I prefer Random Forest because it combines many trees and is more stable than a single tree.
